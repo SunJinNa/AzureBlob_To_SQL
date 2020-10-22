@@ -1,0 +1,465 @@
+2020-04-04 14:54, A new process has started running.All information in credentials.config file have been read.
+2020-04-04 14:54, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-04 16:20, A new process has started running.All information in credentials.config file have been read.
+2020-04-04 16:20, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-04 16:20, Attemping to connect to SQL server.
+2020-04-04 16:20, Successfully connected to SQL server with windows credentials.
+2020-04-04 16:21, A new process has started running.All information in credentials.config file have been read.
+2020-04-04 16:21, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-04 16:21, Attemping to connect to SQL server.
+2020-04-04 16:21, Successfully connected to SQL server with windows credentials.
+2020-04-04 16:29, A new process has started running.All information in credentials.config file have been read.
+2020-04-04 16:29, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-04 16:29, Attemping to connect to SQL server.
+2020-04-04 16:29, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:02, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:02, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:02, Attemping to connect to SQL server.
+2020-04-05 14:02, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:09, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:09, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:09, Attemping to connect to SQL server.
+2020-04-05 14:09, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:16, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:16, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:26, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:26, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:27, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:27, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:29, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:29, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:29, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:29, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:29, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:29, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:29, Attemping to connect to SQL server.
+2020-04-05 14:29, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:29, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 14:29, Attempting to upload all data onto SQL server.
+2020-04-05 14:29, Attempting to establish connection to and create log table in SQL server.
+2020-04-05 14:29, Failed to establish connection to and create log table in SQL server due to error ''data_cleansing' object has no attribute '_trusted_connection_flag''
+2020-04-05 14:32, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:32, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:32, Attemping to connect to SQL server.
+2020-04-05 14:32, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:32, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 14:32, Attempting to upload all data onto SQL server.
+2020-04-05 14:32, Attempting to establish connection to and create log table in SQL server.
+2020-04-05 14:32, Failed to establish connection to and create log table in SQL server due to error 'name 'trusted_connection_flag' is not defined'
+2020-04-05 14:33, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:33, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:33, Attemping to connect to SQL server.
+2020-04-05 14:33, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:33, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 14:33, Attempting to upload all data onto SQL server.
+2020-04-05 14:33, Attempting to establish connection to and create log table in SQL server.
+2020-04-05 14:33, Failed to establish connection to and create log table in SQL server due to error ''int' object has no attribute '_run_visitor''
+2020-04-05 14:36, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:36, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:36, Attemping to connect to SQL server.
+2020-04-05 14:36, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:36, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 14:36, Attempting to upload all data onto SQL server.
+2020-04-05 14:36, Attempting to establish connection to and create log table in SQL server.
+2020-04-05 14:36, Successfully established connection to and create log table in SQL server.
+2020-04-05 14:36, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 14:36, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 14:36, ----Failed to upload column headers for Region_Mapping_Sheet2.csv due to error '(pyodbc.ProgrammingError) ('42000', '[42000] [Microsoft][SQL Server Native Client 11.0][SQL Server]The specified schema name "raw" either does not exist or you do not have permission to use it. (2760) (SQLExecDirectW)')
+[SQL: 
+CREATE TABLE raw.[Region_Mapping_Sheet2] (
+	[SAP] VARCHAR(max) NULL, 
+	[Code^Region] VARCHAR(max) NULL
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405)'. Moving on to the next file.
+2020-04-05 14:36, Successfully uploaded all data onto SQL server.
+2020-04-05 14:40, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:40, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:40, Attemping to connect to SQL server.
+2020-04-05 14:40, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:40, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 14:40, Attempting to upload all data onto SQL server.
+2020-04-05 14:40, Attempting to establish connection to and create log table in SQL server.
+2020-04-05 14:40, Successfully established connection to and create log table in SQL server.
+2020-04-05 14:40, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 14:40, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 14:40, ----Failed to upload column headers for Region_Mapping_Sheet2.csv due to error '(pyodbc.ProgrammingError) ('42000', "[42000] [Microsoft][SQL Server Native Client 11.0][SQL Server]Incorrect syntax near 'GO'. (102) (SQLExecDirectW)")
+[SQL: IF NOT EXISTS (
+                            SELECT  schema_name
+                            FROM    information_schema.schemata
+                            WHERE   schema_name = 'rwa' ) 
+                            
+                            BEGIN
+                            EXEC sp_executesql N'CREATE SCHEMA raw'   
+                            END
+                            GO]
+(Background on this error at: http://sqlalche.me/e/f405)'. Moving on to the next file.
+2020-04-05 14:40, Successfully uploaded all data onto SQL server.
+2020-04-05 14:41, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 14:41, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 14:41, Attemping to connect to SQL server.
+2020-04-05 14:41, Successfully connected to SQL server with windows credentials.
+2020-04-05 14:41, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 14:41, Attempting to upload all data onto SQL server.
+2020-04-05 14:41, Attempting to establish connection to and create log table in SQL server.
+2020-04-05 14:41, Successfully established connection to and create log table in SQL server.
+2020-04-05 14:41, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 14:41, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 15:27, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 15:27, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 15:27, Attemping to connect to SQL server.
+2020-04-05 15:27, Successfully connected to SQL server with windows credentials.
+2020-04-05 15:27, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 15:27, Attempting to upload all data onto SQL server.
+2020-04-05 15:27, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 15:27, --Successfully established connection to and create log table in SQL server.
+2020-04-05 15:27, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 15:27, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 15:27, ----Successfully uploaded column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 15:27, ----Attemping to upload all data in Region_Mapping_Sheet2.csv.
+2020-04-05 15:27, ----Failed to upload all data for Region_Mapping_Sheet2.csv due to error ''data_cleansing' object has no attribute '_trusted_connection_flag''. Moving on to the next file.
+2020-04-05 15:27, Successfully uploaded all data onto SQL server.
+2020-04-05 16:24, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 16:24, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 16:24, Attemping to connect to SQL server.
+2020-04-05 16:24, Successfully connected to SQL server with windows credentials.
+2020-04-05 16:24, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 16:24, Attempting to upload all data onto SQL server.
+2020-04-05 16:24, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 16:24, --Successfully established connection to and create log table in SQL server.
+2020-04-05 16:24, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 16:24, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:24, ----Successfully uploaded column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:24, ----Attemping to upload all data in Region_Mapping_Sheet2.csv.
+2020-04-05 16:24, ----Failed to upload all data for Region_Mapping_Sheet2.csv due to error ''data_cleansing' object has no attribute '_trusted_connection_flag''. Moving on to the next file.
+2020-04-05 16:24, Successfully uploaded all data onto SQL server.
+2020-04-05 16:29, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 16:29, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 16:33, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 16:33, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 16:33, Attemping to connect to SQL server.
+2020-04-05 16:33, Successfully connected to SQL server with windows credentials.
+2020-04-05 16:33, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 16:33, Attempting to upload all data onto SQL server.
+2020-04-05 16:33, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 16:33, --Successfully established connection to and create log table in SQL server.
+2020-04-05 16:33, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 16:33, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:33, ----Successfully uploaded column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:33, ----Attemping to upload all data in Region_Mapping_Sheet2.csv.
+2020-04-05 16:33, ----Failed to upload all data for Region_Mapping_Sheet2.csv due to error ''data_cleansing' object has no attribute '_trusted_connection_flag''. Moving on to the next file.
+2020-04-05 16:33, Successfully uploaded all data onto SQL server.
+2020-04-05 16:41, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 16:41, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 16:41, Attemping to connect to SQL server.
+2020-04-05 16:41, Successfully connected to SQL server with windows credentials.
+2020-04-05 16:41, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 16:41, Attempting to upload all data onto SQL server.
+2020-04-05 16:41, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 16:41, --Successfully established connection to and create log table in SQL server.
+2020-04-05 16:41, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 16:41, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:41, ----Successfully uploaded column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:41, ----Attemping to upload all data in Region_Mapping_Sheet2.csv.
+2020-04-05 16:41, ----Failed to upload all data for Region_Mapping_Sheet2.csv due to error ''data_cleansing' object has no attribute '_trusted_connection_flag''. Moving on to the next file.
+2020-04-05 16:41, Successfully uploaded all data onto SQL server.
+2020-04-05 16:43, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 16:43, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 16:43, Attemping to connect to SQL server.
+2020-04-05 16:43, Successfully connected to SQL server with windows credentials.
+2020-04-05 16:43, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 16:43, Attempting to upload all data onto SQL server.
+2020-04-05 16:43, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 16:43, --Successfully established connection to and create log table in SQL server.
+2020-04-05 16:43, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 16:43, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:43, ----Successfully uploaded column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:43, ----Attemping to upload all data in Region_Mapping_Sheet2.csv.
+2020-04-05 16:43, ----Failed to upload all data for Region_Mapping_Sheet2.csv due to error 'name 'config' is not defined'. Moving on to the next file.
+2020-04-05 16:43, Successfully uploaded all data onto SQL server.
+2020-04-05 16:44, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 16:44, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 16:44, Attemping to connect to SQL server.
+2020-04-05 16:44, Successfully connected to SQL server with windows credentials.
+2020-04-05 16:44, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 16:44, Attempting to upload all data onto SQL server.
+2020-04-05 16:44, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 16:44, --Successfully established connection to and create log table in SQL server.
+2020-04-05 16:44, --Attemping to upload Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, ----Attempting to upload column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, ----Successfully uploaded column headers for Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, ----Attemping to upload all data in Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, ----Successfully uploaded all data in Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, ----Attemping to populate upload log table for Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, ----Successfully populate upload log table for Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, Successfully uploaded Region_Mapping_Sheet2.csv.
+2020-04-05 16:44, Successfully uploaded all data onto SQL server.
+2020-04-05 18:05, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:05, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:05, Attemping to connect to SQL server.
+2020-04-05 18:05, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:05, Attempting to unzip all compressed files.
+2020-04-05 18:05, --Attempting to unzip Files.zip.
+2020-04-05 18:05, --Successfully unzipped Files.zip.
+2020-04-05 18:05, Successfully unzipped all compressed files.
+2020-04-05 18:05, Attempting to upload all data onto SQL server.
+2020-04-05 18:05, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 18:05, --Successfully established connection to and create log table in SQL server.
+2020-04-05 18:05, Successfully uploaded all data onto SQL server.
+2020-04-05 18:08, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:08, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:08, Attemping to connect to SQL server.
+2020-04-05 18:08, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:08, Attempting to unzip all compressed files.
+2020-04-05 18:08, --Attempting to unzip Files.zip.
+2020-04-05 18:08, --Successfully unzipped Files.zip.
+2020-04-05 18:08, Successfully unzipped all compressed files.
+2020-04-05 18:08, No files are present in the Downloaded folder.
+2020-04-05 18:10, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:10, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:10, Attemping to connect to SQL server.
+2020-04-05 18:10, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:10, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 18:10, No files are present in the Downloaded folder.
+2020-04-05 18:10, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:10, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:10, Attemping to connect to SQL server.
+2020-04-05 18:10, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:10, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 18:10, No files are present in the Downloaded folder.
+2020-04-05 18:13, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:13, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:13, Attemping to connect to SQL server.
+2020-04-05 18:13, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:13, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-05 18:13, User chooses to append data.
+2020-04-05 18:13, Attempting to consolidate all data together into a single table.
+2020-04-05 18:13, --Attempting to read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:13, --Successfully read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:13, --Attempting to read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:13, --Successfully read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:13, Failed to consolidate all data together into a single table due to error 'replace() takes 2 positional arguments but 3 were given'.
+2020-04-05 18:14, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:14, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:14, Attemping to connect to SQL server.
+2020-04-05 18:14, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:14, Attempting to unzip all compressed files.
+2020-04-05 18:14, --Attempting to unzip Files.zip.
+2020-04-05 18:14, --Successfully unzipped Files.zip.
+2020-04-05 18:14, Successfully unzipped all compressed files.
+2020-04-05 18:14, User chooses to append data.
+2020-04-05 18:14, Attempting to consolidate all data together into a single table.
+2020-04-05 18:14, --Attempting to read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:14, --Successfully read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:14, --Attempting to read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:15, --Successfully read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:15, Failed to consolidate all data together into a single table due to error 'replace() takes 2 positional arguments but 3 were given'.
+2020-04-05 18:18, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:18, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:18, Attemping to connect to SQL server.
+2020-04-05 18:18, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:18, Attempting to unzip all compressed files.
+2020-04-05 18:18, --Attempting to unzip Files.zip.
+2020-04-05 18:18, --Successfully unzipped Files.zip.
+2020-04-05 18:18, Successfully unzipped all compressed files.
+2020-04-05 18:18, User chooses to append data.
+2020-04-05 18:18, Attempting to consolidate all data together into a single table.
+2020-04-05 18:18, --Attempting to read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:18, --Successfully read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:18, --Attempting to read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:18, --Successfully read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:18, Failed to consolidate all data together into a single table due to error 'replace() takes 2 positional arguments but 3 were given'.
+2020-04-05 18:19, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:19, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:19, Attemping to connect to SQL server.
+2020-04-05 18:19, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:19, Attempting to unzip all compressed files.
+2020-04-05 18:20, --Attempting to unzip Files.zip.
+2020-04-05 18:20, --Successfully unzipped Files.zip.
+2020-04-05 18:20, Successfully unzipped all compressed files.
+2020-04-05 18:20, User chooses to append data.
+2020-04-05 18:20, Attempting to consolidate all data together into a single table.
+2020-04-05 18:20, --Attempting to read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:20, --Successfully read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:20, --Attempting to read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:20, --Successfully read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:20, Failed to consolidate all data together into a single table due to error 'name 'sstr' is not defined'.
+2020-04-05 18:20, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:20, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:20, Attemping to connect to SQL server.
+2020-04-05 18:20, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:20, Attempting to unzip all compressed files.
+2020-04-05 18:20, --Attempting to unzip Files.zip.
+2020-04-05 18:20, --Successfully unzipped Files.zip.
+2020-04-05 18:20, Successfully unzipped all compressed files.
+2020-04-05 18:20, User chooses to append data.
+2020-04-05 18:20, Attempting to consolidate all data together into a single table.
+2020-04-05 18:20, --Attempting to read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:20, --Successfully read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:20, --Attempting to read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:20, --Successfully read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:20, Failed to consolidate all data together into a single table due to error ''str' object has no attribute 'stat''.
+2020-04-05 18:23, A new process has started running.All information in credentials.config file have been read.
+2020-04-05 18:23, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-05 18:23, Attemping to connect to SQL server.
+2020-04-05 18:23, Successfully connected to SQL server with windows credentials.
+2020-04-05 18:23, Attempting to unzip all compressed files.
+2020-04-05 18:23, --Attempting to unzip Files.zip.
+2020-04-05 18:23, --Successfully unzipped Files.zip.
+2020-04-05 18:23, Successfully unzipped all compressed files.
+2020-04-05 18:23, User chooses to append data.
+2020-04-05 18:23, Attempting to consolidate all data together into a single table.
+2020-04-05 18:23, --Attempting to read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:23, --Successfully read all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls.
+2020-04-05 18:23, --Attempting to read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:23, --Successfully read all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx.
+2020-04-05 18:23, Successfully consolidated all data together into a single table.
+2020-04-05 18:23, Attempting to upload all data onto SQL server.
+2020-04-05 18:23, --Attempting to establish connection to and create log table in SQL server.
+2020-04-05 18:23, --Successfully established connection to and create log table in SQL server.
+2020-04-05 18:23, --Attemping to upload consolidated_date.csv.
+2020-04-05 18:23, ----Attempting to upload column headers for consolidated_date.csv.
+2020-04-05 18:23, ----Successfully uploaded column headers for consolidated_date.csv.
+2020-04-05 18:23, ----Attemping to upload all data in consolidated_date.csv.
+2020-04-05 18:23, ----Successfully uploaded all data in consolidated_date.csv.
+2020-04-05 18:23, ----Attemping to populate upload log table for consolidated_date.csv.
+2020-04-05 18:23, ----Successfully populate upload log table for consolidated_date.csv.
+2020-04-05 18:23, Successfully uploaded consolidated_date.csv.
+2020-04-05 18:23, Successfully uploaded all data onto SQL server.
+2020-04-07 10:47, A new process has started running.All information in credentials.config file have been read.
+2020-04-07 10:47, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-07 10:47, Attemping to connect to SQL server.
+2020-04-07 10:47, Successfully connected to SQL server with windows credentials.
+2020-04-07 10:47, Attempting to unzip all compressed files.
+2020-04-07 10:49, A new process has started running.All information in credentials.config file have been read.
+2020-04-07 10:49, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-07 10:49, Attemping to connect to SQL server.
+2020-04-07 10:49, Successfully connected to SQL server with windows credentials.
+2020-04-07 10:49, Attempting to unzip all compressed files.
+2020-04-07 10:49, --Attempting to unzip Files.zip.
+2020-04-07 10:49, --Successfully unzipped Files.zip.
+2020-04-07 10:49, Successfully unzipped all compressed files.
+2020-04-07 10:49, User chooses not to append any data. All files will be processed separately.
+2020-04-07 10:49, Attempting to convert all Excel files into csv.
+2020-04-07 10:49, --Attempting to convert all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls into csv.
+2020-04-07 10:49, Failed to convert all Excel files into csv due to error '[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\AR513UM\\Documents\\9. Automated workflow\\AutoUploader23032020\\Downloaded\\AFWFrance&Cameroun_spend_analysis_Q4_2019_<xlrd.sheet.Sheet_object_at_0x000002D39380A780>.csv''
+2020-04-07 10:50, A new process has started running.All information in credentials.config file have been read.
+2020-04-07 10:50, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-07 10:50, Attemping to connect to SQL server.
+2020-04-07 10:50, Successfully connected to SQL server with windows credentials.
+2020-04-07 10:50, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-07 10:50, User chooses not to append any data. All files will be processed separately.
+2020-04-07 10:50, Attempting to convert all Excel files into csv.
+2020-04-07 10:50, --Attempting to convert all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls into csv.
+2020-04-07 10:50, Failed to convert all Excel files into csv due to error '[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\AR513UM\\Documents\\9. Automated workflow\\AutoUploader23032020\\Downloaded\\AFWFrance&Cameroun_spend_analysis_Q4_2019_<xlrd.sheet.Sheet_object_at_0x000001C4300EC828>.csv''
+2020-04-07 10:51, A new process has started running.All information in credentials.config file have been read.
+2020-04-07 10:51, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-07 10:51, Attemping to connect to SQL server.
+2020-04-07 10:51, Successfully connected to SQL server with windows credentials.
+2020-04-07 10:51, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-07 10:51, User chooses not to append any data. All files will be processed separately.
+2020-04-07 10:51, Attempting to convert all Excel files into csv.
+2020-04-07 10:51, --Attempting to convert all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls into csv.
+2020-04-07 10:51, --Successfully converted all visible sheets in AFWFrance&Cameroun_spend_analysis_Q4_2019.xls into csv.
+2020-04-07 10:51, --Attempting to convert all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx into csv.
+2020-04-07 10:52, --Successfully converted all visible sheets in AFW Australia - AP Data Input Template - Q4_2019_V1.xlsx into csv.
+2020-04-07 10:52, Successfully converted all Excel files into csv.
+2020-04-07 10:52, Attempting to upload all data onto SQL server.
+2020-04-07 10:52, --Attempting to establish connection to and create log table in SQL server.
+2020-04-07 10:52, --Successfully established connection to and create log table in SQL server.
+2020-04-07 10:52, --Attemping to upload AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, ----Attempting to upload column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, ----Successfully uploaded column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, ----Attemping to upload all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, ----Successfully uploaded all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, ----Attemping to populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, ----Successfully populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, Successfully uploaded AFWFrance&Cameroun_spend_analysis_Q4_2019_AFRICA.csv.
+2020-04-07 10:52, --Attemping to upload AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, ----Attempting to upload column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, ----Successfully uploaded column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, ----Attemping to upload all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, ----Successfully uploaded all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, ----Attemping to populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, ----Successfully populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, Successfully uploaded AFWFrance&Cameroun_spend_analysis_Q4_2019_doc_préparatoire_(2).csv.
+2020-04-07 10:52, --Attemping to upload AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, ----Attempting to upload column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, ----Successfully uploaded column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, ----Attemping to upload all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, ----Successfully uploaded all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, ----Attemping to populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, ----Successfully populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, Successfully uploaded AFWFrance&Cameroun_spend_analysis_Q4_2019_EGYPT.csv.
+2020-04-07 10:52, --Attemping to upload AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, ----Attempting to upload column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, ----Successfully uploaded column headers for AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, ----Attemping to upload all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, ----Successfully uploaded all data in AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, ----Attemping to populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, ----Successfully populate upload log table for AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, Successfully uploaded AFWFrance&Cameroun_spend_analysis_Q4_2019_FRANCE.csv.
+2020-04-07 10:52, --Attemping to upload AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, ----Attempting to upload column headers for AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, ----Successfully uploaded column headers for AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, ----Attemping to upload all data in AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, ----Successfully uploaded all data in AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, ----Attemping to populate upload log table for AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, ----Successfully populate upload log table for AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, Successfully uploaded AFW_Australia_-_AP_Data_Input_Template_-_Q4_2019_V1_InvoiceData.csv.
+2020-04-07 10:52, Successfully uploaded all data onto SQL server.
+2020-04-15 11:03, A new process has started running.All information in credentials.config file have been read.
+2020-04-15 11:03, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-15 11:03, Attemping to connect to SQL server.
+2020-04-15 11:03, Successfully connected to SQL server with windows credentials.
+2020-04-15 11:03, Attempting to unzip all compressed files.
+2020-04-15 11:03, --Attempting to unzip FL_insurance_sample.csv.zip.
+2020-04-15 11:03, --Successfully unzipped FL_insurance_sample.csv.zip.
+2020-04-15 11:03, Successfully unzipped all compressed files.
+2020-04-15 11:03, User chooses not to append any data. All files will be processed separately.
+2020-04-15 11:03, No Excel file is detected. Moving on to upload all flat files to SQL separately.
+2020-04-15 11:03, Attempting to upload all data onto SQL server.
+2020-04-15 11:03, --Attempting to establish connection to and create log table in SQL server.
+2020-04-15 11:03, --Successfully established connection to and create log table in SQL server.
+2020-04-15 11:03, --Attemping to upload FL_insurance_sample.csv.
+2020-04-15 11:03, ----Attempting to upload column headers for FL_insurance_sample.csv.
+2020-04-15 11:03, ----Successfully uploaded column headers for FL_insurance_sample.csv.
+2020-04-15 11:03, ----Attemping to upload all data in FL_insurance_sample.csv.
+2020-04-15 11:03, ----Successfully uploaded all data in FL_insurance_sample.csv.
+2020-04-15 11:03, ----Attemping to populate upload log table for FL_insurance_sample.csv.
+2020-04-15 11:03, ----Successfully populate upload log table for FL_insurance_sample.csv.
+2020-04-15 11:03, Successfully uploaded FL_insurance_sample.csv.
+2020-04-15 11:03, --Attemping to upload ._FL_insurance_sample.csv.
+2020-04-15 11:03, ----Attempting to upload column headers for ._FL_insurance_sample.csv.
+2020-04-15 11:03, ----Successfully uploaded column headers for ._FL_insurance_sample.csv.
+2020-04-15 11:03, ----Attemping to upload all data in ._FL_insurance_sample.csv.
+2020-04-15 11:03, ----Successfully uploaded all data in ._FL_insurance_sample.csv.
+2020-04-15 11:03, ----Attemping to populate upload log table for ._FL_insurance_sample.csv.
+2020-04-15 11:03, ----Successfully populate upload log table for ._FL_insurance_sample.csv.
+2020-04-15 11:03, Failed to upload all data onto SQL server due to error '[WinError 2] The system cannot find the file specified: 'C:\\Users\\AR513UM\\Documents\\9. Automated workflow\\AutoUploader23032020\\Downloaded\\._FL_insurance_sample.csv' -> 'C:\\Users\\AR513UM\\Documents\\9. Automated workflow\\AutoUploader23032020\\Processed\\._FL_insurance_sample.csv''.
+2020-04-15 11:05, A new process has started running.All information in credentials.config file have been read.
+2020-04-15 11:05, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-04-15 11:05, Attemping to connect to SQL server.
+2020-04-15 11:06, Successfully connected to SQL server with windows credentials.
+2020-04-15 11:06, No compressed files are detected. Moving on to process Excel and flat files.
+2020-04-15 11:06, User chooses not to append any data. All files will be processed separately.
+2020-04-15 11:06, No Excel file is detected. Moving on to upload all flat files to SQL separately.
+2020-04-15 11:06, Attempting to upload all data onto SQL server.
+2020-04-15 11:06, --Attempting to establish connection to and create log table in SQL server.
+2020-04-15 11:06, --Successfully established connection to and create log table in SQL server.
+2020-04-15 11:06, --Attemping to upload FL_insurance_sample.csv.
+2020-04-15 11:06, ----Attempting to upload column headers for FL_insurance_sample.csv.
+2020-04-15 11:06, ----Successfully uploaded column headers for FL_insurance_sample.csv.
+2020-04-15 11:06, ----Attemping to upload all data in FL_insurance_sample.csv.
+2020-04-15 11:06, ----Successfully uploaded all data in FL_insurance_sample.csv.
+2020-04-15 11:06, ----Attemping to populate upload log table for FL_insurance_sample.csv.
+2020-04-15 11:06, ----Successfully populate upload log table for FL_insurance_sample.csv.
+2020-04-15 11:06, Successfully uploaded FL_insurance_sample.csv.
+2020-04-15 11:06, Successfully uploaded all data onto SQL server.
+2020-04-27 11:36, A new process has started running.All information in credentials.config file have been read.
+2020-04-27 11:36, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-05-06 16:09, A new process has started running.All information in credentials.config file have been read.
+2020-05-06 16:09, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
+2020-05-06 16:24, A new process has started running.All information in credentials.config file have been read.
+2020-05-06 16:24, No Azure crendentials are detected, no file from Azure will be downloaded.Moving on to process existing data in the downloaded folder.
